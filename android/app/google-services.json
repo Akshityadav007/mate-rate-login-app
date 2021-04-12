@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735792946588",
+    "project_id": "mate-rate-login-app",
+    "storage_bucket": "mate-rate-login-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735792946588:android:19ab106b2d503a698cfc59",
+        "android_client_info": {
+          "package_name": "com.example.materateloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735792946588-89pgskg7cuh87kgk4gn6jo10trf84spt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.materateloginapp",
+            "certificate_hash": "9c653fcfa251fec1c003daeaa1ea8f0a5bdd7fe6"
+          }
+        },
+        {
+          "client_id": "735792946588-bsd0284ikbtlmtokjnavf885mn9u319q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWfZfg5MwU55Mck4rWRWPvX4QauKq4Fdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735792946588-bsd0284ikbtlmtokjnavf885mn9u319q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
